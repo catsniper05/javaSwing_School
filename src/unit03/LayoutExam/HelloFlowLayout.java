@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 public class HelloFlowLayout extends JFrame{
 	
 	HelloFlowLayout(){
-		
+		//º¯°æ
 		JPanel p = new JPanel();
 		p.setBackground(Color.blue);
 		add(p);

@@ -9,7 +9,7 @@ public class HelloSwing2 extends JFrame{
 		f.setSize(350,100);
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setVisible(true);
-		
+		//º¯°æ
 	}
 
 }

@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 public class HelloSwing extends JFrame {
 	//생성자에서 화면 만들기
 	HelloSwing(){
-		
+		//변경
 		//3. 화면 초기 세팅하기.
 		setTitle("안녕 스윙");
 		setSize(300, 100);
