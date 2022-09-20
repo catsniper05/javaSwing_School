@@ -8,9 +8,6 @@ import javax.swing.JPanel;
 public class HelloFlowLayout extends JFrame{
 	
 	HelloFlowLayout(){
-		//변경
-		
-		//변경
 		JPanel p = new JPanel();
 		p.setBackground(Color.blue);
 		add(p);

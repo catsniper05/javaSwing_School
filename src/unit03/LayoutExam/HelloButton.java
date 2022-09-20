@@ -7,7 +7,7 @@ import javax.swing.JPanel;
 public class HelloButton extends JFrame{
 	
 	HelloButton(){
-		//º¯°æ
+		
 		JPanel p = new JPanel();
 		p.setBackground(Color.blue);
 		add(p);
